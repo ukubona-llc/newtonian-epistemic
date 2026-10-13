@@ -1,3 +1,23 @@
+<!-- Paste in <head> -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$','$'],['\\(','\\)']],
+      displayMath: [['$$','$$'],['\\[','\\]']],
+      processEscapes: true
+    },
+    options: { skipHtmlTags: ['script','noscript','style','textarea','pre','code'] }
+  };
+</script>
+<script id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<!-- Usage inline: $E = mc^2$ -->
+<!-- Usage block:  $$\int_0^\infty e^{-x} dx = 1$$ -->
+
+
+
 summarize [https://www.youtube.com/watch?v=3VpXVAAfa7Y](https://www.youtube.com/watch?v=3VpXVAAfa7Y) use I. Principal_i = How Something II. Broker_ij=Becomes Visible III. Agent_ijk & Gamets_ijk=Acquires Significance IV. Collisions(P_i, B_ij, A_ijk, G_ijk)=Rising in Priority V. ? -> I'. Principlals_i, i+1, etf. Crudely, i=1 is Newtonian Costs, i=2 is Epistemic Costs. References: [https://ukubona-llc.github.io/hermeneutics/](https://ukubona-llc.github.io/hermeneutics/) \*\*Summary of “Why Did Human Progress EXPLODE in the Last 100 Years — After 10,000 Years of Slow Progress?” (Ami, \~20 min), framed in the Principal–Broker–Agent–Collision–I′ structure.\*\*
 
 
