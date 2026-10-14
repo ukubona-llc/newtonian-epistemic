@@ -108,7 +108,7 @@ Gaps between major breakthroughs shrink dramatically: thousands of years → cen
 
 
 
-### V. ? → I′. Principals_i, i+1, etc.  
+### V. ? → I′. Principals_i, i+1, etc. = Changes Something 
 
 The open question (“?”) is what persists, terminates, or is inherited. The answer is a new set of principals (I′):
 
