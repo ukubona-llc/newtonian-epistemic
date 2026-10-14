@@ -124,60 +124,8 @@ The open question (“?”) is what persists, terminates, or is inherited. The a
 Crudely, the video maps exactly onto the note: i=1 Newtonian costs (muscle/energy), i=2 epistemic costs (transfer & verification). Both had to open together; neither alone produced the explosion. The cycle that started 10,000 years ago finally acquired the tools to spin faster than human biology and manuscript culture permitted.
 
 
-
-(Reference frame drawn from the hermeneutics architecture at ukubona-llc.github.io/hermeneutics, in which Principal → Broker → Agent/Gamete → Collision → Graveyard/Survivors → I′.) Here is a structured summary of the video [Why Did Human Progress EXPLODE in the Last 100 Years — After 10,000 Years of Slow Progress?]\(https\://www\.youtube.com/watch?v=3VpXVAAfa7Y) (by Ami), framed through the Principal–Broker–Agent–Collision–I′ hermeneutics architecture:\
-\
-\---\
-\
-### **I. Principal_i = How Something**\
-\
-For millennia, human civilization possessed cities, writing, mathematics, ships, aqueducts, and waterwheels, yet ordinary life changed at an extremely slow pace because progress was bottlenecked by two foundational constraints ($i$):\
-\
-* **$i = 1$ (Newtonian / Energy Costs):** Work depended almost entirely on human and animal muscle power (a person equating to roughly one old light bulb; a horse to about 7×). With roughly 9 out of 10 people required to grow food just to sustain survival, there was virtually no surplus labor available for specialized invention or accumulation. Energy could not scale independently of human population and food production.\
-* **$i = 2$ (Epistemic Costs):** Knowledge survived through writing but existed in single or very few hand-copied manuscripts. Copying was slow, error-prone, and non-testable. Verification required physically moving rare books, turning the physical manuscript into the "proof" itself (e.g., Aristotle’s flawed claim that heavier objects fall faster persisted for \~2,000 years). Early innovations like Hero’s steam engine or Bi Sheng’s movable type remained isolated curiosities without societal impact.\
-\
-\---\
-\
-### **II. Broker_ij = Becomes Visible**\
-\
-Brokers represent the channels and mediums that make underlying principals observable and representable:\
-\
-* **Monastic Copying & Isolated Libraries:** Knowledge was sampled slowly and locally; ideas traveled only as fast as a person walking or sailing, and a single fire or flood could erase an entire repository of thought.\
-* **Muscle-Powered Infrastructure:** Agriculture and transport relied on biological energy, keeping societies locally fragmented.\
-* **Early Industrial Precursors:** Initial breakthroughs (such as Newcomen’s 1712 atmospheric engine) operated under both constraints—knowledge remained scarce and energy remained muscle-bound.\
-\
-\---\
-\
-### **III. Agent_ijk & Gametes_ijk = Acquires Significance**\
-\
-Agents and their recombinable techniques, inventions, and institutions (*gametes*) began recombining the visible material to scale capabilities:\
-\
-* **Gutenberg’s Printing Press (\~1450):** Combined movable type, oil ink, and adapted wine presses to produce hundreds of identical copies in the time it took a monk to copy one book, generating 10–20 million books in Europe within 50 years.\
-* **Scientific Journals (1665 Onward):** Established the verification-before-publication norm, making knowledge public, reproducible, and challengeable.\
-* **Steam & Industrial Labs:** Watt’s separate condenser and rotary motion scaled engines to do the work of hundreds; Edison’s Menlo Park lab industrialized invention with teams, shared equipment, and a deliberate cadence of discovery.\
-* **Electrification & Computation:** Telegraph, telephone, and electricity decoupled energy and ideas from physical travel; ENIAC, transistors, integrated circuits, networked computers, and modern AI transformed how information is processed and generated.\
-\
-\---\
-\
-### **IV. Collisions (P_i, B_ij, A_ijk, G_ijk) = Rising in Priority**\
-\
-Collisions occur when principals, brokers, and agents interact to fundamentally alter survival and acceleration probabilities:\
-\
-* **Simultaneous Lock-Opening:** Printing alone yielded libraries while most people farmed; coal/steam alone provided stronger muscles without new ideas. Progress exploded only when **both locks opened in the same historical window** (cheap, testable knowledge + scalable energy).\
-* **Positive Feedback Loops:** More energy $\rightarrow$ fewer farmers $\rightarrow$ more minds in cities $\rightarrow$ specialized labs $\rightarrow$ faster discoveries $\rightarrow$ better tools that further accelerate the cycle.\
-* **Compounding Acceleration:** Geographic isolation collapsed, invention became an industrial process, and the gap between major breakthroughs shrank from millennia to centuries, decades, and years.\
-\
-\---\
-\
-### **V. ? → I′. Principals_i, i+1, etc.**\
-\
-The open question (“?”) resolves into a new set of baseline principals ($I'$):\
-\
-* **The New Paradigm:** Progress is no longer limited by human muscle or manuscript scarcity; civilization now builds tools that continuously raise the rate of the cycle itself.\
-* **Solving $i = 1$ & $i = 2$:** Newtonian energy costs were largely solved by fossil fuels and electricity, triggering a surplus of labor. Epistemic costs were solved by mass, testable, near-instantaneous dissemination, making knowledge durable and self-correcting.\
-* **Higher-Order Principals:** Emergence of advanced systems—machines designing next-generation machines, AI generating novel knowledge, and the new risk that the sheer velocity of technological acceleration itself becomes the primary binding constraint and structural frontier.
-
 ---
+
 
 The key move is to treat the video not simply as a history of technological progress, but as a theogony of successive principals: each generation inherits a world shaped by the previous generation’s surviving inventions, then discovers that its own binding constraints are different.
 
