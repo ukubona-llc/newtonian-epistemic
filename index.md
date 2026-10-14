@@ -24,8 +24,7 @@
 >
 </iframe>
 
-
-Summarize [https://www.youtube.com/watch?v=3VpXVAAfa7Y](https://www.youtube.com/watch?v=3VpXVAAfa7Y) use 
+# [Ledger](https://ukubona-llc.github.io/hermeneutics/#ledger)
 
 ```
 I. Principal_i = How Something 
@@ -35,8 +34,7 @@ IV. Collisions(P_i, B_ij, A_ijk, G_ijk)=Rising in Priority
 V. ? -> I'. Principlals_i, i+1, etf. Crudely, i=1 is Newtonian Costs, i=2 is Epistemic Costs.
 ```
 
- References: [https://ukubona-llc.github.io/hermeneutics/](https://ukubona-llc.github.io/hermeneutics/) **Summary of “Why Did Human Progress EXPLODE in the Last 100 Years — After 10,000 Years of Slow Progress?” (Ami, \~20 min), framed in the Principal–Broker–Agent–Collision–I′ structure.**
-
+ 
 
 
 The video argues that humans already possessed cities, writing, mathematics, ships, aqueducts, waterwheels, and compounding knowledge for nearly 10,000 years, yet ordinary life changed extremely slowly. Only in the last \~100 years did breakthroughs (airplanes, computers, internet, AI) accelerate dramatically. The reason is not a sudden improvement in human intelligence, but the simultaneous unlocking of two long-standing constraints (“locks”), after which progress began building tools that sped up its own cycle.
