@@ -27,14 +27,12 @@
 # [Ledger](https://ukubona-llc.github.io/hermeneutics/#ledger)
 
 ```
-I. Principal_i = How Something 
-II. Broker_ij=Becomes Visible 
-III. Agent_ijk & Gamets_ijk=Acquires Significance 
-IV. Collisions(P_i, B_ij, A_ijk, G_ijk)=Rising in Priority 
-V. ? -> I'. Principlals_i, i+1, etf. Crudely, i=1 is Newtonian Costs, i=2 is Epistemic Costs.
+I. Principal_i  How Something 
+II. Broker_ij Becomes Visible 
+III. Agent_ijk & Gamets_ijk Acquires Significance 
+IV. Collisions(P_i, B_ij, A_ijk, G_ijk) Rises in Priority 
+V. ? -> I'. Principlals_i, i+1, etf. Crudely, i=1 is Newtonian Costs, i=2 is Epistemic Costs. Changes Something
 ```
-
- 
 
 
 The video argues that humans already possessed cities, writing, mathematics, ships, aqueducts, waterwheels, and compounding knowledge for nearly 10,000 years, yet ordinary life changed extremely slowly. Only in the last \~100 years did breakthroughs (airplanes, computers, internet, AI) accelerate dramatically. The reason is not a sudden improvement in human intelligence, but the simultaneous unlocking of two long-standing constraints (“locks”), after which progress began building tools that sped up its own cycle.
