@@ -250,8 +250,8 @@ And crucially, \\(I'\\) is not merely \\(I\\) with more technology. It is a chan
 | \\(i=1\\)  | Newtonian                      | Muscles constrain productive capacity.                                                  |
 | \\(i=2\\)  | Epistemic                      | Scarce, fragile knowledge constrains cumulative discovery.                              |
 | \\(i=3\\)  | Computational                  | Processing, modeling, and searching possibilities become increasingly consequential.    |
-| \\(i=4\\)  | Coordination and institutional | Aligning agents, incentives, infrastructure, and deployment becomes a major bottleneck. |
-| \\(i=5\\)  | Sovereignty and selection      | Who controls the representations, defines the objective, and decides what survives?     |
+| \\(i=4\\)  | Market or Jungle               | Aligning agents, incentives, infrastructure, and deployment becomes a major bottleneck. |
+| \\(i=5\\)  | Sovereignty, Budget-Constraint | Who controls the representations, defines the objective, and decides what survives?     |
 
 These are candidate successive regimes, not established historical stages. The costs overlap, and a society can remain constrained by energy or basic information access while another is confronting computational or governance bottlenecks.
 
@@ -440,7 +440,7 @@ Through this lens, calling it a **hot mess** is exact. You have a system where a
 
 
 <iframe
-   src="https://www.youtube.com/embed/3VpXVAAfa7Y"
+   src="https://www.youtube.com/embed/iKEMO4iEnf0"
    height="500"
    width="75%"
 >
